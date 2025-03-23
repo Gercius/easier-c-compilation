@@ -1,6 +1,6 @@
 @echo off
 REM Auto-compile C files
-REM Usage: compile filename.c
+REM Usage: cp filename.c
 
 if "%1"=="" (
     echo Please provide a C file to compile
